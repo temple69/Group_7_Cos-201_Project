@@ -18,6 +18,7 @@ public class MultiplicationTableApp {
             System.out.print(number + " x " + lines +" = ");
             //This prints the product of multiplication with 3 set integers
             System.out.printf("%3d\t\n",number*lines);
+            System.out.println();
             
     
          }
