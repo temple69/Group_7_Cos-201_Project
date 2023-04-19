@@ -1,6 +1,6 @@
 # MEMBER CONTRIBUTIONS
 | S/N  | STUDENT NAME          | REGISTRATION NO  | CONTRIBUTION |
-| ---- |:------------------:   | :---------------:| :-----------------------------------------------------------------------------------------: |
+| ---- |:------------------   | :---------------:| :----------------------------------------------------------------------------------------- |
 | 1    | EMEKA PRECIOUS NMESOMA|   2020/247249    |Organized the group from the start to the completion of the project. Also made a complied grouping of the entire group                                                     members and successfully submitted the project repository link to Miss Aminat via Email.|
 | 2    | EZEA UZOMA MERCY      |   2020/243509 | Wrote a source code that gave an output of the desired project.| 
 | 3    | NNAJI UCHECHUKWU TEMPLE |  2020/244199 | Created a GitHub Repository for the project. and created Readme                                                       files to document the project|
@@ -21,11 +21,12 @@
 | 18   | ONWE ANTHONY CHIDUBEM | 2020/244145 | Tested and debugged the codes |
 | 19   | OJIMELUKWE IKECHUKWU | 2019/249587 | Reviewed the code and delivered constructive feedback to the programmer. |
 | 20   | UMEH KENNY DAVID | 2020/241099 | Tested and debugged the codes |
-| 21   | IBETO EMMANUEL EBUKA  |  |Tested and debugged the codes   |
+| 21   | IBETO EMMANUEL EBUKA  |  |  |
 | 22   | NNAJI CHINECHEREM EVAN | 2020/243528 | Brought the idea of forming a demarcation (space) after each iteration so the output will be readable |
-| 23   | ORJI CHUKWUMA CHIBUEZE |  | Tested and debugged the codes |
+| 23   | ORJI CHUKWUMA CHIBUEZE | 2020/243984  | Added a feature to the code that will display the current times table if user is seeing the multiplication table results |
 | 24   | OKAFOR ONYEDIKA MICHAEL |  | Tested and debugged the codes |
 | 25   | IKEMBA EMMANUEL IKECHUKWU | 2020/243972 | Defined the coding standard that all the team numbers are to follow. |
 | 26   | OLORI KENDRICK RUKEVWE |  | Tested and debugged the codes |
 | 27   | IGWE CHIDERA CHRISTOPHER  | 2020/243969 | Tested and debugged the codes |
 | 28   | IKENNA RONALD CHUKWUKADIBIA | 2020/248374 | Suggested element IDE for software and JStudio for mobile|
+| 29  | EZEDEBEGO CHETACHUKWU JOSHUA| 2020/242446 | Communicated effectively with my teammates by sharing my thoughts and ideas and asked neccesary questions for clarification on project|
