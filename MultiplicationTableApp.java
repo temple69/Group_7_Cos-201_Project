@@ -21,6 +21,7 @@ public class MultiplicationTableApp {
             
     
          }
+         //This Prints A Divider after each Table Iteration by twelve
          System.out.println("----------------------");
          
          
