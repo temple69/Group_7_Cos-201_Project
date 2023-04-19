@@ -42,7 +42,7 @@ The output is well-formatted and easy to read, with each number taking up four s
 
 ## CONCLUSION
 <p>The Java program is a simple yet effective way to generate and display a multiplication table from 1 to 12. The use of nested for loops and the printf method makes the program concise and efficient. The output is well-formatted and easy to read, making it a useful tool for anyone who needs to quickly generate a multiplication table.</p>
-Teamwork played out well in the implementation of this project, as everyone was delighted to contribute his quota</p>
+<p>Teamwork played out well in the implementation of this project, as everyone was delighted to contribute his quota</p>
 
  
 
