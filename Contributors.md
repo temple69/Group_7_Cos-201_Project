@@ -21,7 +21,7 @@
 | 18   | ONWE ANTHONY CHIDUBEM | 2020/244145 | Tested and debugged the codes |
 | 19   | OJIMELUKWE IKECHUKWU | 2019/249587 | Reviewed the code and delivered constructive feedback to the programmer. |
 | 20   | UMEH KENNY DAVID | 2020/241099 | Tested and debugged the codes |
-| 21   | IBETO EMMANUEL EBUKA  |  |  |
+| 21   | IBETO EMMANUEL EBUKA  |  |Tested and debugged the codes   |
 | 22   | NNAJI CHINECHEREM EVAN | 2020/243528 | Brought the idea of forming a demarcation (space) after each iteration so the output will be readable |
 | 23   | ORJI CHUKWUMA CHIBUEZE |  | Tested and debugged the codes |
 | 24   | OKAFOR ONYEDIKA MICHAEL |  | Tested and debugged the codes |
