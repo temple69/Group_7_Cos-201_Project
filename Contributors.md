@@ -6,12 +6,12 @@
 | 3    | NNAJI UCHECHUKWU TEMPLE |  2020/244199 | Created a GitHub Repository for the project. and created Readme                                                       files to document the project|
 | 4    | CLEMENT NZUBECHUKWU CLEMENT | 2020/242037 | Emailed Miss Aminat to confirm what exactly is expected of us in the project and provided the format on writing the project report.|
 | 5   | EKPOH UTIBE- ABASI ITORO | 2020/244201 | Assisted in writing the source code that gave an output of the desired project.|
-| 6   | ANYIKA UCHECHUKWU LORRETTA | 2019/249395 | Wrote a comprehensive report while adhering to the instructions given.|
+| 6   | ANYIKA UCHECHUKWU LORRETA | 2019/249395 | Wrote a comprehensive report while adhering to the instructions given.|
 | 7   | ATTAH CHISOM LINDA  | 2020/243502 | Wrote a comprehensive report while adhering to the instruction given.|
 | 8   |  EZEILO CLARA SOMTOCHUKWU | 2020/243902 | Wrote a comprehensive report while adhering to the instruction given.|
 | 9   | REMI-OKEKE PRINCE UGONNA  | 2020/244228 | Edited the source code due to compatibility issues |
 | 10   | JOEL MARVELLOUS ONYEBUCHI  | 2020/248325 | Vetted the source code to make sure it is error free. |
-| 11   | DOMINION DANIEL IZUCHUKWU | 2020/249395 | Created a method to print the multiplication table. This method uses a nested loop. |
+| 11   | DOMINION DANIEL IZUCHUKWU | 2020/249222 | Created a method to print the multiplication table. This method uses a nested loop. |
 | 12  | ONAH EKENE ISAAC  | 2020/248955 | Vetted the source code to make sure it is error free. |
 | 13   | UCHENNA PATRICK CHIDERA  | 2020/243521 | Reviewed the code and delivered constructive feedback to the programmer.|
 | 14   | AGUNECHE STEVE-CHRIS CHIDIEBUBE | 2020/243602 | Reviewed the code and delivered constructive feedback to the programmer. |
